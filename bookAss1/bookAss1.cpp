@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+    cout << "Testing";
     Book Book1;
     Book1.setBookDetails("Saturn", "THUYO", "May", true);
     Book Book2;
@@ -14,3 +15,4 @@ int main()
     Book Book3;
     Book3.setBookDetails("Saturn", "THUYO", "May", true);
 }
+
